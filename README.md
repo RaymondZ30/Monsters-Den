@@ -1,14 +1,12 @@
 # Monster's Den - Team 3
 
 **Team Members:**
-- Khan, Shahmeer - shk24@sfu.ca
-- Singh, Simarjot - ssa679@sfu.ca
-- Zhou, Raymond - rza121@sfu.ca
-- Leon, Campos Maria - mpl7@sfu.ca
+- Khan, Shahmeer 
+- Singh, Simarjot 
+- Zhou, Raymond
+- Leon, Campos Maria 
 
 Monster's Den is a 2D grid-based dungeon game built with Java 11, Maven, and JavaFX. 
-
-**📹 [Video Demo Link](https://youtu.be/FlVfw9ktnN8)**
 
 ---
 
